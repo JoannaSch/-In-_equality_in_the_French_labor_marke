@@ -7,6 +7,7 @@ Data contain information about French employment, salaries, population per town
 Tech stack: SQL (PostreSQL), Tableau
 
 
-co-autors: 
+
+co-authors: 
 Basia Jankowska https://github.com/BarbaraJankowska
 Mateusz Mikołajczak https://github.com/mateusz-mikolajczak
